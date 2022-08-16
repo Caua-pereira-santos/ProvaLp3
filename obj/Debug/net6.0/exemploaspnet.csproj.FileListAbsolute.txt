@@ -24,3 +24,29 @@ C:\Users\IFSP\Desktop\SP3048918\exemploaspnet\obj\Debug\net6.0\refint\exemploasp
 C:\Users\IFSP\Desktop\SP3048918\exemploaspnet\obj\Debug\net6.0\exemploaspnet.pdb
 C:\Users\IFSP\Desktop\SP3048918\exemploaspnet\obj\Debug\net6.0\exemploaspnet.genruntimeconfig.cache
 C:\Users\IFSP\Desktop\SP3048918\exemploaspnet\obj\Debug\net6.0\ref\exemploaspnet.dll
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\bin\Debug\net6.0\appsettings.json
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\bin\Debug\net6.0\exemploaspnet.staticwebassets.runtime.json
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\bin\Debug\net6.0\exemploaspnet.exe
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\bin\Debug\net6.0\exemploaspnet.deps.json
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\bin\Debug\net6.0\exemploaspnet.runtimeconfig.json
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\bin\Debug\net6.0\exemploaspnet.dll
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\bin\Debug\net6.0\exemploaspnet.pdb
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\obj\Debug\net6.0\exemploaspnet.csproj.AssemblyReference.cache
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\obj\Debug\net6.0\exemploaspnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\obj\Debug\net6.0\exemploaspnet.AssemblyInfoInputs.cache
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\obj\Debug\net6.0\exemploaspnet.AssemblyInfo.cs
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\obj\Debug\net6.0\exemploaspnet.csproj.CoreCompileInputs.cache
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\obj\Debug\net6.0\exemploaspnet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\obj\Debug\net6.0\exemploaspnet.RazorAssemblyInfo.cache
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\obj\Debug\net6.0\exemploaspnet.RazorAssemblyInfo.cs
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\obj\Debug\net6.0\scopedcss\bundle\exemploaspnet.styles.css
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\obj\Debug\net6.0\scopedcss\projectbundle\exemploaspnet.bundle.scp.css
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\obj\Debug\net6.0\exemploaspnet.dll
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\obj\Debug\net6.0\refint\exemploaspnet.dll
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\obj\Debug\net6.0\exemploaspnet.pdb
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\obj\Debug\net6.0\exemploaspnet.genruntimeconfig.cache
+C:\Users\IFSP\Desktop\Nova pasta\ExemploAspNetMvc\obj\Debug\net6.0\ref\exemploaspnet.dll

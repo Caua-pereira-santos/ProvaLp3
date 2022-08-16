@@ -22,7 +22,7 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    //{controller=home}, cai na página home pois é padrãp de busca.
+    //{controller=home}, cai na página home pois é padrão de busca.
     //action=Index = cria uma ação
     pattern: "{controller=Home}/{action=Index}/{id?}");
 

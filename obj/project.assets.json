@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IFSP\\Desktop\\SP3048918\\exemploaspnet\\exemploaspnet.csproj",
+      "projectUniqueName": "C:\\Users\\IFSP\\Desktop\\Nova pasta\\ExemploAspNetMvc\\exemploaspnet.csproj",
       "projectName": "exemploaspnet",
-      "projectPath": "C:\\Users\\IFSP\\Desktop\\SP3048918\\exemploaspnet\\exemploaspnet.csproj",
+      "projectPath": "C:\\Users\\IFSP\\Desktop\\Nova pasta\\ExemploAspNetMvc\\exemploaspnet.csproj",
       "packagesPath": "C:\\Users\\IFSP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IFSP\\Desktop\\SP3048918\\exemploaspnet\\obj\\",
+      "outputPath": "C:\\Users\\IFSP\\Desktop\\Nova pasta\\ExemploAspNetMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
