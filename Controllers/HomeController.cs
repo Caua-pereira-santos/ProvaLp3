@@ -8,6 +8,7 @@ public class UserRequest
 {
     public string Nome { get; set; }
     public string Email { get; set; }
+    public string Senha {get; set;}
 }
 
 public class HomeController : Controller
@@ -47,7 +48,7 @@ public class HomeController : Controller
       }
        public string TesteFormData([FromForm] UserRequest userRequest, [FromHeader] string x)
      {
-        return $"Nome: {userRequest.Nome}, E-mail: {userRequest.Email}, x: {x}";
+        return $"Nome: {userRequest.Nome}, E-mail: {userRequest.Email},Senha: {userRequest.Senha}, x: {x}";
      }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
