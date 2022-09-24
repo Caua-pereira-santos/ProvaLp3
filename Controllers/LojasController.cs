@@ -16,14 +16,46 @@ public class LojasController : Controllers{
         return View(lojas[id-1]);
     }
 
-    public IActionResult Cadastrar()
+    public IActionResult Cadastrar[fromForm] string nome, [FromForm] string email, [FromForm] string descricao)
         {
+            foreach(var loja in lojas)
+            {if(nome == loja.Nome){
+                ViewData["Nome"]= nome; 
+
             return View();
+            }
+        }
+
+        LojasViewModel  loja = new LojasViewModel(lojas.count(), nome, email, descricao);
+        lojas.Add(loja);
+
+        return view("Cadastrar");
+
         }
 
         public IActionResult Detalhar()
         {
             return View();
+        }
+
+        public IActionResult Deletar(int id)
+        {
+            if(lojas.Count() == 1)
+            {
+                lojas.Clear();
+            }
+            else
+            
+                lojas.RemoveAt(id);
+
+                foreach (var loja in lojas)
+                {
+                    lojas.Id = lojas.IndexOf(loja);
+                }
+
+                return View();
+
+            
         }
     
 }
